@@ -1,0 +1,4 @@
+.vscode/
+main
+main.o
+zig-out/
